@@ -16,7 +16,7 @@ Apply the fontSize property to the textarea element.
 
 
 ## Deployed link of project
-- https://shadazam-meesho-clone.netlify.app/
+
 
 
 
