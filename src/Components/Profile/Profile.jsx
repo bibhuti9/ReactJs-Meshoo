@@ -18,7 +18,7 @@ export default function Profile() {
           src="https://images.meesho.com/images/marketing/1648820929975.jpeg"
           alt=""
         />
-        <h2>Sign Up to view your cart items</h2>
+        <h2>Sign Up to view your cart items</h2> 
         <p>Country</p>
         <p id="number">
           <span>IN +91</span>
