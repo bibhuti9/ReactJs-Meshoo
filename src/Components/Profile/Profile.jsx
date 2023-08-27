@@ -19,6 +19,8 @@ export default function Profile() {
           alt=""
         />
         <h2>Sign Up to view your cart items</h2>
+        {/*demo*/}
+        <input type="hidden"> 
         <p>Country</p>
         <p id="number">
           <span>IN +91</span>
